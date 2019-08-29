@@ -1,3 +1,16 @@
+# install branch/next to support go module
+
+1. cd AppData\Roaming\Sublime Text 3\GoSublime
+
+2. git clone https://github.com/nothollyhigh/GoSublime.git
+
+3. git checkout next
+
+4. copy AppData\Roaming\Sublime Text 3\GoSublime\src\margo.sh\extension-example\extension-example.go
+    ->  AppData\Roaming\Sublime Text 3\GoSublime\src\margo\margo.go
+    
+5. done. 
+
 # GoSublime [![Backers on Open Collective](https://opencollective.com/gosublime/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/gosublime/sponsors/badge.svg)](#sponsors) [![Build Status](https://travis-ci.org/DisposaBoy/GoSublime.svg?branch=master)](https://travis-ci.org/DisposaBoy/GoSublime)
 
 ## Intro
